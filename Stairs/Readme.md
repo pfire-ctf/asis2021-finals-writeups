@@ -1,4 +1,4 @@
-# RAS Solution
+# Stairs Solution
 
 c(0) = M^5 + M
 
