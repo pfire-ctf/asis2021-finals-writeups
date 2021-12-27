@@ -3,8 +3,10 @@
 ## Index
 
 - [`crina`](crina/)
-- [`ndlp`](ndlp/)
 - [`RAS`](RAS/)
+- [`Stairs`](Stairs/)
+- [`mdlp`](mdlp/)
+- [`ndlp`](ndlp/)
 
 
 ## Team Members
